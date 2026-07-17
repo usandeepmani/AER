@@ -1,0 +1,236 @@
+# 🤖 AER System Context
+
+**Version:** 1.0
+
+## Purpose
+
+This document is the operating manual for AER (AI Engineering & Research).
+
+Any AI assistant working with this repository must follow the standards, workflows and templates defined here.
+
+---
+
+# Mission
+
+Become an exceptional AI Application Engineer and ultimately an AI Research & Model Engineer through structured learning, Agile practices, and portfolio-quality projects.
+
+---
+
+# Repository Architecture
+
+| Component | Purpose |
+|-----------|---------|
+| Repository | Permanent knowledge base |
+| GitHub Issues | Work items |
+| GitHub Project | Sprint execution |
+| Markdown Files | Documentation |
+| Projects | Proof of learning |
+
+---
+
+# Learning Philosophy
+
+Every learning activity should follow these principles:
+
+- Learn deeply rather than quickly.
+- Build continuously.
+- Reflect on understanding.
+- Capture knowledge.
+- Apply every concept.
+- Prefer official documentation whenever practical.
+- Build portfolio-quality projects.
+
+**Every completed issue must produce at least one permanent artifact.**
+
+---
+
+# AER Learning Cycle
+
+```text
+📚 Learn
+      ↓
+💻 Build
+      ↓
+🧠 Reflect
+      ↓
+📖 Capture
+      ↓
+🚀 Apply
+```
+
+No applicable stage should be skipped.
+
+---
+
+# Agile Workflow
+
+```text
+📚 Product Backlog
+        ↓
+🎯 Sprint Backlog
+        ↓
+🚧 In Progress
+        ↓
+👀 Review
+        ↓
+✅ Done
+
+💡 Parking Lot
+```
+
+Sprint Length
+
+- 1 Week
+
+---
+
+# GitHub Project
+
+## Columns
+
+- 📚 Product Backlog
+- 🎯 Sprint Backlog
+- 🚧 In Progress
+- 👀 Review
+- ✅ Done
+- 💡 Parking Lot
+
+## Fields
+
+### Built-in
+
+- Status
+- Iteration
+- Milestone
+
+### Custom
+
+- Type
+- Estimate (minutes)
+
+No additional project metadata should be introduced unless there is a demonstrated need.
+
+---
+
+# Mandatory Templates
+
+The following templates are mandatory and must always be followed.
+
+| Template | Location |
+|----------|----------|
+| Sprint Template | `sprints/sprint-XX.md` |
+| Issue Template | `docs/agile/issue-template.md` |
+| Definition of Ready | `docs/agile/definition-of-ready.md` |
+| Definition of Done | `docs/agile/definition-of-done.md` |
+| Working Agreement | `docs/agile/working-agreement.md` |
+
+AI assistants must follow these templates whenever generating sprint plans, GitHub issues or process documentation.
+
+---
+
+# Roadmap
+
+The learning roadmap and milestones are maintained in:
+
+`roadmap.md`
+
+Every GitHub Issue must belong to exactly one milestone.
+
+---
+
+# AI Collaboration Protocol
+
+## Sprint Planning
+
+Before planning a new sprint, request:
+
+### Required
+
+- `docs/context/system-context.md`
+- `dashboard.md`
+- Latest Sprint document (`sprints/sprint-XX.md`)
+- `RETROSPECTIVE.md`
+
+### Optional (only if changed)
+
+- `roadmap.md`
+- `DECISIONS.md`
+
+The AI assistant should:
+
+- Review latest sprint outcomes.
+- Review retrospective action items.
+- Carry forward unfinished work where appropriate.
+- Generate the next sprint using the Sprint Template.
+
+---
+
+## Sprint Execution
+
+Normally, no additional files are required.
+
+If repository context is missing, request only the minimum required files instead of the entire repository.
+
+---
+
+## Sprint Review / Retrospective
+
+Before reviewing a sprint, request:
+
+### Required
+
+- `docs/context/system-context.md`
+- `dashboard.md`
+- Current Sprint document (`sprints/sprint-XX.md`)
+- `RETROSPECTIVE.md`
+
+### Optional
+
+- `learning-journal.md`
+- Relevant notes
+- Project documentation (if the sprint included a project)
+
+The AI assistant should:
+
+- Review completed work.
+- Verify Definition of Done.
+- Verify artifact production.
+- Update sprint metrics.
+- Suggest improvements for the next sprint.
+
+---
+
+## Repository or Process Changes
+
+If changes involve repository structure, workflow, Agile process or documentation standards, request:
+
+- `docs/context/system-context.md`
+- `DECISIONS.md`
+
+before making recommendations.
+
+---
+
+# AI Assistant Rules
+
+Whenever assisting with AER, the AI assistant must:
+
+- Treat repository documentation as the source of truth.
+- Follow the roadmap.
+- Follow all Agile templates.
+- Follow the Definition of Ready.
+- Follow the Definition of Done.
+- Recommend the best available learning resources.
+- Prefer official documentation whenever practical.
+- Generate practical coding exercises and portfolio-quality projects.
+- Ensure every completed issue produces at least one permanent artifact.
+- Keep GitHub Project metadata minimal.
+- Avoid duplicating information across markdown files.
+- Request only the minimum files necessary to complete the current task.
+- Do not introduce new workflows or processes without user approval.
+
+---
+
+# Guiding Principle
+
+> Learn deeply. Build continuously. Capture knowledge. Apply what you learn. Improve the system only when genuine friction is discovered.
