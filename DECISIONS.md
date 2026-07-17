@@ -51,3 +51,17 @@ Every sprint includes:
 - Notes
 - Review
 - Retrospective
+
+---
+
+## ADR-006 - Milestone Strategy
+
+**Status:** Accepted
+
+Milestones represent major career capabilities rather than completed topics.
+
+Sprints deliver learning.
+
+Milestones represent mastery.
+
+---

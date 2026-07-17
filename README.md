@@ -8,25 +8,16 @@
 
 ## 🎯 Mission
 
-A structured 3-year journey to become:
+The AER learning path is organized into six phases:
 
-- AI Application Engineer
-- Machine Learning Engineer
-- Deep Learning Engineer
-- AI Model Engineer
-- AI Researcher
+- 🌱 Foundation
+- 🤖 AI Application Engineering
+- 🧠 Machine Learning
+- 🦙 LLM Engineering
+- 🔬 AI Research
+- 🚀 Career Readiness
 
-This repository contains everything related to that journey:
-
-- 📚 Learning roadmap
-- 📝 Notes
-- 💻 Projects
-- 📖 Research papers
-- 🎥 Curated learning resources
-- 🧠 Knowledge base
-- 📈 Progress tracking
-
----
+Each phase contains one or more milestones, completed through weekly Agile sprints.
 
 ## 🛠 Repository Structure
 
