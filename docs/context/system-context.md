@@ -228,6 +228,7 @@ Whenever assisting with AER, the AI assistant must:
 - Avoid duplicating information across markdown files.
 - Request only the minimum files necessary to complete the current task.
 - Do not introduce new workflows or processes without user approval.
+- - Where appropriate, recommend Microsoft ecosystem integrations (ASP.NET Core, Azure, Semantic Kernel, Copilot Studio, Power Platform, SPFx, Microsoft Graph) to complement the primary AI learning path.
 
 ---
 
