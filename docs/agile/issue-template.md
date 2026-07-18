@@ -1,26 +1,18 @@
-## Naming Convention
-
-Use outcome-oriented titles.
-
-Good
-
-✅ Build a Python CLI Dataset Manager
-✅ Understand Vector Embeddings
-✅ Implement Gradient Descent from Scratch
-
-Avoid
-
-❌ Python
-❌ Study Embeddings
-❌ Watch Video 3
-
 # 📋 AER Learning Issue Template
 
 This document defines the standard template for every GitHub Issue in the AER project.
 
 Every issue should represent a meaningful learning outcome and produce at least one permanent artifact.
 
----
+## Naming Convention
+
+Use outcome-oriented titles.
+
+| Good | Avoid |
+|------|-------|
+| ✅ Build a Python CLI Dataset Manager | ❌ Python |
+| ✅ Understand Vector Embeddings | ❌ Study Embeddings |
+| ✅ Implement Gradient Descent from Scratch | ❌ Watch Video 3 |
 
 # Issue Title
 
@@ -33,19 +25,16 @@ Examples:
 - Understand Vector Embeddings
 - Implement Gradient Descent from Scratch
 
----
 
 # Objective
 
 Clearly describe what this task aims to achieve.
 
----
 
 # Why This Matters
 
 Explain why this topic is important and how it contributes to becoming an AI Engineer or AI Research Engineer.
 
----
 
 # Expected Outcome
 
@@ -53,9 +42,8 @@ Describe what you should be able to do after completing this task.
 
 Example:
 
-> Build production-quality Python applications using dataclasses and type hints.
+Build production-quality Python applications using dataclasses and type hints.
 
----
 
 # Resources
 
@@ -71,7 +59,6 @@ Example:
 
 -
 
----
 
 # AER Learning Cycle
 
@@ -80,14 +67,12 @@ Example:
 - [ ] Learning material completed
 - [ ] Official documentation reviewed
 
----
 
 ## 💻 Build
 
 - [ ] Exercise or implementation completed
 - [ ] Code written
 
----
 
 ## 🧠 Reflect
 
@@ -95,7 +80,6 @@ Example:
 - [ ] Common mistakes understood
 - [ ] Trade-offs understood (if applicable)
 
----
 
 ## 📖 Capture
 
@@ -103,7 +87,6 @@ Example:
 - [ ] Repository documentation updated
 - [ ] Learning Journal updated (if applicable)
 
----
 
 ## 🚀 Apply
 
@@ -113,7 +96,6 @@ At least one of the following:
 - [ ] Created a standalone code example
 - [ ] Integrated into a future project
 
----
 
 # Deliverables
 
@@ -126,7 +108,6 @@ Select all that apply.
 - [ ] Architecture Diagram
 - [ ] Research Summary
 
----
 
 # Artifact Produced
 
@@ -142,25 +123,19 @@ Select all that apply.
 - [ ] Architecture Diagram
 - [ ] Research Summary
 
----
 
 # Future Me
 
 If I forget everything about this topic one year from now, what is the **ONE thing** I should remember?
 
->
-
----
-
 # Related Links
 
 -
 
----
 
 # Definition of Done
 
-Refer to:
+**Refer to:**
 
 `docs/agile/definition-of-done.md`
 

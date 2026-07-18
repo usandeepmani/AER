@@ -1,10 +1,10 @@
 # 🗺️ AER Roadmap
 
-> **Mission:** Become an exceptional AI Application Engineer and evolve into an AI Research & Model Engineer through structured learning, hands-on projects, Agile practices, and continuous improvement.
+## 🎯 Mission
 
----
+**Become an exceptional AI Application Engineer and evolve into an AI Research & Model Engineer through structured learning, hands-on projects, Agile practices, and continuous improvement.**
 
-# 🎯 Vision
+## 🎯 Vision
 
 AER follows a structured learning journey built around:
 
@@ -17,9 +17,8 @@ AER follows a structured learning journey built around:
 
 Every milestone is achieved through weekly Agile sprints, practical projects, and continuous knowledge capture.
 
----
 
-# 🧭 Technology Strategy
+## 🧭 Technology Strategy
 
 AER follows a **Python-first, Microsoft-enabled** learning strategy.
 
@@ -37,7 +36,7 @@ Career Advantage
 Both
 ```
 
-## Primary Technology
+### Primary Technology
 
 Python is the primary language for:
 
@@ -49,7 +48,7 @@ Python is the primary language for:
 - AI Research
 - Data Science
 
-## Enterprise Integration
+### Enterprise Integration
 
 Microsoft technologies are learned alongside the AI roadmap whenever they provide practical enterprise value.
 
@@ -68,15 +67,14 @@ Focus areas include:
 
 The objective is to become an **Enterprise AI Engineer** capable of building production-grade AI solutions within the Microsoft ecosystem.
 
----
 
-# 🔄 Parallel Learning Tracks
+## 🔄 Parallel Learning Tracks
 
 Alongside the primary AI roadmap, AER includes continuous learning tracks that strengthen engineering skills.
 
 These are **not separate milestones**. They are integrated naturally into relevant milestones and projects.
 
-## 🏢 Microsoft Enterprise AI
+### 🏢 Microsoft Enterprise AI
 
 Focus Areas
 
@@ -93,9 +91,8 @@ Focus Areas
 - Microsoft Entra ID
 - Azure DevOps
 
----
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 Focus Areas
 
@@ -106,9 +103,8 @@ Focus Areas
 - Monitoring
 - Deployment
 
----
 
-## 🏗️ Software Engineering
+### 🏗️ Software Engineering
 
 Focus Areas
 
@@ -119,9 +115,8 @@ Focus Areas
 - Performance
 - Observability
 
----
 
-# 🏆 Learning Journey
+## 🏆 Learning Journey
 
 ```text
 AI Application Engineer
@@ -142,17 +137,16 @@ AI Research Engineer
 AI Model Engineer
 ```
 
----
 
-# 🌱 Phase 1 – Foundation
+## 🌱 Phase 1 – Foundation
 
-## 🐍 M1 – Python for AI
+### 🐍 M1 – Python for AI
 
-### Objective
+#### Objective
 
 Master modern Python required for AI engineering.
 
-### Topics
+#### Topics
 
 - Python Fundamentals (Refresher)
 - Modern Python
@@ -165,57 +159,55 @@ Master modern Python required for AI engineering.
 - Packaging
 - Testing
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Professional Python coding skills
 - Multiple Python exercises
 - Production-quality Python CLI project
 
-### Exit Criteria
+#### Exit Criteria
 
 - Modern Python topics completed
 - CLI project completed
 - Able to explain core concepts
 - Milestone artifacts committed
 
----
 
-## 📐 M2 – Mathematics for Machine Learning
+### 📐 M2 – Mathematics for Machine Learning
 
-### Objective
+#### Objective
 
 Develop mathematical intuition required for Machine Learning.
 
-### Topics
+#### Topics
 
 - Linear Algebra
 - Calculus
 - Probability
 - Statistics
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Mathematics notes
 - Strong mathematical intuition
 - Ability to understand ML algorithms mathematically
 
-### Exit Criteria
+#### Exit Criteria
 
 - Core mathematics topics completed
 - Notes documented
 - Able to relate mathematics to ML concepts
 
----
 
-# 🤖 Phase 2 – AI Application Engineering
+## 🤖 Phase 2 – AI Application Engineering
 
-## ⚙️ M3 – AI Engineering Foundations
+### ⚙️ M3 – AI Engineering Foundations
 
-### Objective
+#### Objective
 
 Learn production-grade AI application development.
 
-### Topics
+#### Topics
 
 - FastAPI
 - REST APIs
@@ -225,20 +217,19 @@ Learn production-grade AI application development.
 - Testing
 - Logging
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - AI-ready backend service
 - Production engineering practices
 
----
 
-## 💬 M4 – Prompt Engineering & LLM APIs
+### 💬 M4 – Prompt Engineering & LLM APIs
 
-### Objective
+#### Objective
 
 Build applications using modern LLM APIs.
 
-### Topics
+#### Topics
 
 - Prompt Engineering
 - OpenAI
@@ -248,20 +239,19 @@ Build applications using modern LLM APIs.
 - Structured Outputs
 - Function Calling
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - AI Assistant
 - Prompt Library
 
----
 
-## 📚 M5 – RAG Engineer
+### 📚 M5 – RAG Engineer
 
-### Objective
+#### Objective
 
 Build Retrieval-Augmented Generation applications.
 
-### Topics
+#### Topics
 
 - Embeddings
 - Vector Databases
@@ -270,19 +260,18 @@ Build Retrieval-Augmented Generation applications.
 - Hybrid Search
 - Evaluation
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Production-grade RAG System
 
----
 
-## 🤖 M6 – AI Agent Engineer
+### 🤖 M6 – AI Agent Engineer
 
-### Objective
+#### Objective
 
 Design intelligent autonomous AI systems.
 
-### Topics
+#### Topics
 
 - MCP
 - LangGraph
@@ -290,22 +279,21 @@ Design intelligent autonomous AI systems.
 - Tool Calling
 - Multi-Agent Systems
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Enterprise AI Agent
 - MCP Server
 
----
 
-# 🧠 Phase 3 – Machine Learning
+## 🧠 Phase 3 – Machine Learning
 
-## 📈 M7 – Machine Learning Engineer
+### 📈 M7 – Machine Learning Engineer
 
-### Objective
+#### Objective
 
 Master classical Machine Learning.
 
-### Topics
+#### Topics
 
 - Regression
 - Classification
@@ -313,19 +301,18 @@ Master classical Machine Learning.
 - Feature Engineering
 - Model Evaluation
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - End-to-End ML Pipeline
 
----
 
-## 🧠 M8 – Deep Learning Engineer
+### 🧠 M8 – Deep Learning Engineer
 
-### Objective
+#### Objective
 
 Build neural networks using PyTorch.
 
-### Topics
+#### Topics
 
 - Neural Networks
 - PyTorch
@@ -333,22 +320,21 @@ Build neural networks using PyTorch.
 - RNNs
 - Transfer Learning
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Image Classification Project
 - NLP Project
 
----
 
-# 🦙 Phase 4 – LLM Engineering
+## 🦙 Phase 4 – LLM Engineering
 
-## 🦙 M9 – LLM Engineer
+### 🦙 M9 – LLM Engineer
 
-### Objective
+#### Objective
 
 Understand and build modern Large Language Models.
 
-### Topics
+#### Topics
 
 - Transformers
 - Attention
@@ -358,19 +344,18 @@ Understand and build modern Large Language Models.
 - PEFT
 - Quantization
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Fine-tuned LLM
 
----
 
-## ⚡ M10 – Model Optimization Engineer
+### ⚡ M10 – Model Optimization Engineer
 
-### Objective
+#### Objective
 
 Optimize AI models for production.
 
-### Topics
+#### Topics
 
 - Inference
 - ONNX
@@ -378,71 +363,67 @@ Optimize AI models for production.
 - vLLM
 - Model Serving
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Optimized AI Inference Pipeline
 
----
 
-# 🔬 Phase 5 – AI Research
+## 🔬 Phase 5 – AI Research
 
-## 🔬 M11 – AI Research Engineer
+### 🔬 M11 – AI Research Engineer
 
-### Objective
+#### Objective
 
 Read, understand and reproduce research papers.
 
-### Topics
+#### Topics
 
 - Reading Papers
 - Benchmarking
 - Reproducibility
 - Experiment Tracking
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Reproduced Research Paper
 
----
 
-## 🏗️ M12 – AI Model Engineer
+### 🏗️ M12 – AI Model Engineer
 
-### Objective
+#### Objective
 
 Build and train transformer models from scratch.
 
-### Topics
+#### Topics
 
 - Transformer Architecture
 - Scaling Laws
 - Distributed Training
 - Model Training
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - Custom Transformer Model
 
----
 
-# 🚀 Phase 6 – Career
+## 🚀 Phase 6 – Career
 
-## 💼 M13 – Portfolio Complete
+### 💼 M13 – Portfolio Complete
 
-### Objective
+#### Objective
 
 Build a professional AI portfolio.
 
-### Expected Outcomes
+#### Expected Outcomes
 
 - 10+ Production Projects
 - Well-documented GitHub Repository
 - Technical Articles
 
----
 
-## 🎯 M14 – AI Engineer Ready
+### 🎯 M14 – AI Engineer Ready
 
-### Outcome
+#### Outcome
 
 Ready for roles such as:
 
@@ -451,11 +432,10 @@ Ready for roles such as:
 - LLM Engineer
 - AI Platform Engineer
 
----
 
-## 🚀 M15 – AI Research Ready
+### 🚀 M15 – AI Research Ready
 
-### Outcome
+#### Outcome
 
 Ready for roles such as:
 
@@ -463,9 +443,8 @@ Ready for roles such as:
 - AI Model Engineer
 - Applied Scientist
 
----
 
-# 🚀 Capstone Projects
+## 🚀 Capstone Projects
 
 The following projects represent major milestones in the AER journey.
 
@@ -476,9 +455,8 @@ The following projects represent major milestones in the AER journey.
 - 🔬 Research Paper Reproduction
 - 🦙 Fine-tuned Domain LLM
 
----
 
-# 📈 Progress Tracker
+## 📈 Progress Tracker
 
 | Phase | Status |
 |--------|--------|
@@ -489,15 +467,13 @@ The following projects represent major milestones in the AER journey.
 | 🔬 AI Research | ⬜ Not Started |
 | 🚀 Career | ⬜ Not Started |
 
----
 
-# 🏁 Current Milestone
+## 🏁 Current Milestone
 
 🐍 **M1 – Python for AI**
 
----
 
-# 📅 Current Sprint
+## 📅 Current Sprint
 
 **Sprint 1**
 
@@ -505,6 +481,5 @@ Theme:
 
 **Modern Python for AI Engineering**
 
----
 
-> **Learn Deep. Build Well. Stay Curious.**
+**Learn Deep. Build Well. Stay Curious.**

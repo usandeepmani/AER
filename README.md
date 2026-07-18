@@ -4,8 +4,6 @@
 
 **Learn Deep. Build Well. Stay Curious.**
 
----
-
 ## 🎯 Mission
 
 The AER learning path is organized into six phases:
@@ -29,24 +27,12 @@ projects/    → Hands-on projects
 .github/     → GitHub configuration
 ```
 
----
 
 ## 🎯 Current Milestone
-
-🚧 Sprint 0 - Repository Setup
-
----
-
-## 📌 Guiding Principles
-
-- Understand First Principles
-- Build Before Copying
-- Document Everything Worth Remembering
 - Quality Over Speed
 - Stay Curious
 - Think Like an Engineer
 - Never Stop Iterating
 
----
 
 *This repository is a living document of my journey from AI Engineer to AI Researcher.*

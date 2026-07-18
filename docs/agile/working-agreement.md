@@ -1,4 +1,4 @@
-# AER Learning Cycle
+# AER Working Agreement
 
 Every learning activity follows the same cycle.
 

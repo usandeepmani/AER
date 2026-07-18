@@ -6,7 +6,6 @@
 
 AER follows a documentation-first repository structure where the repository is the permanent knowledge base and GitHub Projects is the execution board.
 
----
 
 ## ADR-002 - Learning Cadence
 
@@ -19,7 +18,6 @@ Reason:
 - Fits weekend deep work
 - Continuous improvement
 
----
 
 ## ADR-003 - Source of Truth
 
@@ -29,7 +27,6 @@ Documentation lives inside the repository.
 
 GitHub Project tracks active work only.
 
----
 
 ## ADR-004 - Learning Philosophy
 
@@ -37,7 +34,6 @@ GitHub Project tracks active work only.
 
 Progress is measured by mastery, not by time.
 
----
 
 ## ADR-005 - Sprint Workflow
 
@@ -52,7 +48,6 @@ Every sprint includes:
 - Review
 - Retrospective
 
----
 
 ## ADR-006 - Milestone Strategy
 
@@ -64,4 +59,3 @@ Sprints deliver learning.
 
 Milestones represent mastery.
 
----

@@ -2,7 +2,6 @@
 
 A task is considered **Ready** when it is sufficiently defined and can be started without additional planning.
 
----
 
 # General Criteria
 
@@ -17,7 +16,6 @@ Before moving a task to **🚧 In Progress**, ensure that:
 - [ ] The estimated effort is added.
 - [ ] Any prerequisites are completed.
 
----
 
 # Task Type Requirements
 
@@ -34,7 +32,6 @@ Expected artifacts:
 - Notes
 - Code example (optional)
 
----
 
 ## 💻 Coding
 
@@ -49,7 +46,6 @@ Expected artifacts:
 - Source code
 - Git commit
 
----
 
 ## 🚀 Project
 
@@ -65,7 +61,6 @@ Expected artifacts:
 - README
 - Documentation
 
----
 
 ## 🔍 Review
 
@@ -79,8 +74,7 @@ Expected artifacts:
 - Retrospective
 - Improvement actions
 
----
 
 # AER Principle
 
-> A task should never enter **In Progress** if its objective or expected artifact is unclear.
+A task should never enter **In Progress** if its objective or expected artifact is unclear.

@@ -4,7 +4,6 @@ This document captures the outcome of every sprint throughout the AER journey.
 
 Each sprint focuses on continuous improvement—not just completing tasks.
 
----
 
 # Sprint Retrospective Template
 
@@ -17,7 +16,6 @@ Each sprint focuses on continuous improvement—not just completing tasks.
 | Goal | |
 | Milestone | |
 
----
 
 ## Sprint Metrics
 
@@ -29,7 +27,6 @@ Each sprint focuses on continuous improvement—not just completing tasks.
 | Review Tasks | | |
 | Total Issues | | |
 
----
 
 ## Artifacts Produced
 
@@ -42,7 +39,6 @@ Each sprint focuses on continuous improvement—not just completing tasks.
 | Journal Entries | |
 | Total Artifacts | |
 
----
 
 ## Sprint Highlights
 
@@ -50,19 +46,16 @@ Each sprint focuses on continuous improvement—not just completing tasks.
 
 -
 
----
 
 ### ⚠️ Challenges
 
 -
 
----
 
 ### 💡 Improvements for Next Sprint
 
 -
 
----
 
 ### 🧠 Key Learning
 
@@ -70,28 +63,23 @@ What is the **one thing future Sandeep will thank present Sandeep for documentin
 
 -
 
----
 
 ### 🎯 Next Sprint Focus
 
 -
 
----
 
----
 
 # Sprint 1
 
-> _To be completed at the end of Sprint 1._
+_To be completed at the end of Sprint 1._
 
----
 
 # Sprint 2
 
-> _To be completed at the end of Sprint 2._
+_To be completed at the end of Sprint 2._
 
----
 
 # Sprint 3
 
-> _To be completed at the end of Sprint 3._
+_To be completed at the end of Sprint 3._
