@@ -36,7 +36,7 @@ Clearly describe what this task aims to achieve.
 Explain why this topic is important and how it contributes to becoming an AI Engineer or AI Research Engineer.
 
 
-# Expected Outcome
+# Success Criteria
 
 Describe what you should be able to do after completing this task.
 
@@ -55,17 +55,12 @@ Build production-quality Python applications using dataclasses and type hints.
 
 -
 
-**Official Documentation**
-
--
-
 
 # AER Learning Cycle
 
 ## 📚 Learn
 
 - [ ] Learning material completed
-- [ ] Official documentation reviewed
 
 
 ## 💻 Build
@@ -90,7 +85,7 @@ Build production-quality Python applications using dataclasses and type hints.
 
 ## 🚀 Apply
 
-At least one of the following:
+Demonstrate practical application by completing at least one of the following:
 
 - [ ] Applied in an existing project
 - [ ] Created a standalone code example
@@ -127,10 +122,6 @@ Select all that apply.
 # Future Me
 
 If I forget everything about this topic one year from now, what is the **ONE thing** I should remember?
-
-# Related Links
-
--
 
 
 # Definition of Done
